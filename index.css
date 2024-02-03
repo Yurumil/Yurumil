@@ -145,26 +145,24 @@ body {
   }
 
   #teamfight {
-    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-tft-mobile.jpg);
-    background-size: cover;
+    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-tft-mobile.png);
   }
 
   #valorant {
-    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-valorant-mobile.jpg);
-    background-size: cover;
+    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-valorant-mobile.png);
   }
   #battleground {
-    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-pubg-mobile.jpg);
+    background-image: url(https://cdn.dak.gg/portal/images/icon/ico-pubg-mobile.png);
     background-size: cover;
   }
 
   #maplestory {
-    background-image: url(//cdn.dak.gg/portal/images/icon/ico-maple-mobile.jpg);
+    background-image: url(//cdn.dak.gg/portal/images/icon/ico-maple-mobile.png);
     background-size: cover;
   }
 
   #er {
-    background-image: url(//cdn.dak.gg/portal/images/icon/ico-er-mobile.jpg);
+    background-image: url(//cdn.dak.gg/portal/images/icon/ico-er-mobile.png);
     background-size: cover;
   }
 }
