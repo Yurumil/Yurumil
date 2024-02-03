@@ -165,4 +165,10 @@ body {
     background-image: url(//cdn.dak.gg/portal/images/icon/ico-er-mobile.png);
     background-size: cover;
   }
+
+  .game {
+    /* border: 2px solid; */
+    height: 15%;
+    width: 30%;
+  }
 }
